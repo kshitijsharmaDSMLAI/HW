@@ -40,4 +40,4 @@ jobs:
       uses: docker/build-push-action@v5
       with:
         push: true
-        tags: <yourusername>/hello-devops:latest
+        tags: kshitijsharma550/devops:v1
